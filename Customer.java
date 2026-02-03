@@ -17,7 +17,7 @@ public class Customer {
         }
         return "Insufficient funds for " + nameOfCustomer;
     }
-
+    //
     // Identity method [cite: 18]
     public String identifyRole() {
         return "I am the Customer Class. I manage the buyer's identity and their available funds. [cite: 21]";
